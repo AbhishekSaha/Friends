@@ -1,0 +1,13 @@
+6
+Arny|n
+Beta|y|rutgers
+Charlie|y|rutgers
+Delta|n
+Ernie|n
+Frank|y|rutgers
+Arny|Beta
+Beta|Delta
+Beta|Charlie
+Charlie|Ernie
+Delta|Ernie
+Ernie|Frank
